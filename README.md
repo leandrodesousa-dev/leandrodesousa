@@ -1,7 +1,7 @@
 <h1> E aí, Salve, salve! :alien: </h1>
-
+<img align='right' src="./gifs/zoro-1.gif" width="230">
 ### Seja Bem-Vindo!! Eu sou Leandro de Sousa.
-<p>Atuo como dev iOS na <a href="https://tqi.com.br/">TQI </a><img src="https://github.com/leandrodesousa-dev/leandrodesousa/blob/main/gifs/matrix-1.gif" width="30"></br>No projeto do <a href="https://apps.apple.com/br/app/banco-pagbank-pagseguro/id1186059012">PagBank </a><img src="https://github.com/leandrodesousa-dev/leandrodesousa/blob/main/gifs/dinheiro-1.gif" width="30"> 
+<p>Atuo como dev iOS na <a href="https://tqi.com.br/">TQI </a><img src="./gifs/matrix-1.gif" width="30"></br>No projeto do <a href="https://apps.apple.com/br/app/banco-pagbank-pagseguro/id1186059012">PagBank </a><img src="./gifs/dinheiro-1.gif" width="30"> 
 </p>
 
 Atualmente no PagBank, sou responsável pela feature de Adição de Fundos. E anteriormente, contribui por 1 ano na feature de Pagamentos de Contas.
